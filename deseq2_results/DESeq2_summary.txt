@@ -1,0 +1,13 @@
+GSE190688 DESeq2 analysis summary
+Samples: 11
+FTE samples: 5
+HGSOC samples: 6
+Genes in input matrix: 60675
+Genes retained after filter: 24746
+Genes with non-NA adjusted p-values: 24259
+Significant DEGs (padj < 0.05): 9867
+Upregulated in HGSOC (log2FC > 0, padj < 0.05): 5573
+Downregulated in HGSOC / higher in FTE (log2FC < 0, padj < 0.05): 4294
+Significant DEGs with |log2FC| >= 1: 8664
+Direction: positive log2FoldChange = higher in HGSOC; negative = higher in FTE.
+Significance threshold: adjusted p-value (Benjamini-Hochberg) < 0.05.

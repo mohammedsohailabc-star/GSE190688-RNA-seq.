@@ -1,0 +1,32 @@
+# Raw sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sra
+
+# Alignment and intermediate files
+*.bam
+*.bai
+*.sam
+alignment/
+trimmed/
+tmp_sra/
+fasterq.tmp*/
+
+# Large reference genome files and indexes
+reference/
+refrence/
+
+# Team-shared nested repository and files
+team_shared_files/
+
+# Temporary R files
+.RData
+.Rhistory
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+raw_sra/
