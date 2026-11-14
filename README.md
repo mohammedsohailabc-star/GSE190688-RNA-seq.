@@ -1,3 +1,5 @@
+![GSE190688 RNA-seq Research Portfolio](GSE190688_cover.png)
+
 # GSE190688: RNA-seq Analysis of High-Grade Serous Ovarian Cancer
 
 Researcher: Mohammed Sohail Raza
